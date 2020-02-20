@@ -1,6 +1,6 @@
-Q3MasterServer v 1.0 (PtitBigorneau www.ptitbigorneau.fr)
+Q3MasterServer v 2 (PtitBigorneau www.ptitbigorneau.fr)
 ##############################################################
-
+Python 3
 ##############################################################
 Exemple Urban Terror Master Server
 ##############################################################
@@ -16,9 +16,9 @@ listservers = m.ListServers()
 n = 0
 
 for server in listservers:
-    print server
+    print(server)
     n = n + 1
-print "-------------------"
-print n
+print("-------------------"=
+print(n)
 
 ##############################################################
